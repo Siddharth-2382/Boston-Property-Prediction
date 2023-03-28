@@ -16,7 +16,7 @@ To run this project, you will need to have Python 3.x and the following librarie
 You can install these libraries using pip or conda package manager.
 
 ## Usage
-To use this model, you can simply download the project and run the Jupyter notebook multivariable_regression.ipynb. This notebook contains detailed explanations of the code and the model, as well as examples of how to use the model to predict the price of a home based on its characteristics.
+To use this model, you can simply download the project and run the Jupyter notebook `Multivariable_Regression_and_Valuation_Model_(complete).ipynb`. This notebook contains detailed explanations of the code and the model, as well as examples of how to use the model to predict the price of a home based on its characteristics.
 
 The dataset used for this model is the Boston Housing dataset, which is included in the project files. This dataset contains information about various homes in Boston, such as the number of rooms, distance to employment centers, and the economic status of the area.
 
